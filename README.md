@@ -1,5 +1,3 @@
-# BrainFile  
-
 # VacIT!  
 ## Vacaturesite via een mobile-first approach 
 
@@ -9,6 +7,10 @@ zoals het eruit ziet op een smartphone van de Samsung S-serie.
 
 ## Symfony, php, twig, foundation-framework
 
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+
 # Verrukkulluk  
 ## Gerechtenwebsite  
 
@@ -16,3 +18,7 @@ zoals het eruit ziet op een smartphone van de Samsung S-serie.
 -> screenshot van de hoofdpagina met beschikbare gerechten.  
 
 ## php, bootstrap, twig
+
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
